@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769509180112",
+    "firebase_url": "https://authfirebase-7b7a7.firebaseio.com",
+    "project_id": "authfirebase-7b7a7",
+    "storage_bucket": "authfirebase-7b7a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769509180112:android:37edc8674bc4bb9a",
+        "android_client_info": {
+          "package_name": "com.resaberlian.authmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769509180112-ftbro7ffmjk6epa4uo5k1qfbk4ufe8pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resaberlian.authmessaging",
+            "certificate_hash": "6797b36a86e214570ab011462ed50e9ddacbb11e"
+          }
+        },
+        {
+          "client_id": "769509180112-b9os9javo3mtqi3fnaobpp5ccjdgcmml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEIB5Auzo9EN09-uZQ-20iaFjYyOZgE8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769509180112-b9os9javo3mtqi3fnaobpp5ccjdgcmml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
